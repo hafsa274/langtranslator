@@ -6,7 +6,7 @@ This project is a **Language Translation Tool** built in **Python** using the `g
 ## 🚀 Features
 - **Automatic Language Detection**  
 - **Supports 10 Popular Languages**  
-- **Real-time Translation** of Multiple Sentences**  
+- **Real-time Translation of Multiple Sentences**  
 - **Option to Change Target Language Anytime**  
 - **Handles Invalid Inputs Gracefully**  
 
@@ -15,25 +15,24 @@ This project is a **Language Translation Tool** built in **Python** using the `g
    ```sh
    git clone https://github.com/your-username/Language-Translator.git
    cd Language-Translator
-Install Dependencies
-sh
-Copy
-Edit
-pip install googletrans==4.0.0-rc1
-Run the Script
-sh
-Copy
-Edit
-python translator.py
-📌 Usage
-Select a target language from the available options.
-Enter the text you want to translate.
-Type "change" to switch the target language.
-Type "exit" to quit.
-💡 Example Output
-markdown
-Copy
-Edit
+   ```
+2. **Install Dependencies**  
+   ```sh
+   pip install googletrans==4.0.0-rc1
+   ```
+3. **Run the Script**  
+   ```sh
+   python translator.py
+   ```
+
+## 📌 Usage
+1. Select a **target language** from the available options.  
+2. Enter the text you want to translate.  
+3. Type `"change"` to switch the target language.  
+4. Type `"exit"` to quit.
+
+## 💡 Example Output
+```
 ========================================
          LANGUAGE TRANSLATION TOOL        
 ========================================
@@ -69,21 +68,24 @@ You: exit
 ========================================
   Exiting the Language Translator.  
 ========================================
-🌐 Supported Languages
-Code	Language
-en	English
-fr	French
-ur	Urdu
-hi	Hindi
-de	German
-es	Spanish
-zh-cn	Chinese
-ar	Arabic
-ru	Russian
-ja	Japanese
- ##📄 License
+```
+
+## 🌐 Supported Languages
+| Code  | Language  |
+|--------|------------|
+| en    | English  |
+| fr    | French  |
+| ur    | Urdu  |
+| hi    | Hindi  |
+| de    | German  |
+| es    | Spanish  |
+| zh-cn | Chinese  |
+| ar    | Arabic  |
+| ru    | Russian  |
+| ja    | Japanese  |
+
+## 📄 License
 This project is **open-source** and free to use under the MIT License.
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to contribute by improving the project or adding more features!
-
