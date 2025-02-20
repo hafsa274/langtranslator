@@ -13,7 +13,7 @@ This project is a **Language Translation Tool** built in **Python** using the `g
 ## 🔧 Installation
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/your-username/Language-Translator.git
+   git clone https://github.com/hafsa274/Language-Translator.git
    cd Language-Translator
    ```
 2. **Install Dependencies**  
